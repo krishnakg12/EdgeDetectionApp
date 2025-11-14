@@ -1,0 +1,38 @@
+package org.opencv.engine;
+
+import android.os.IBinder;
+
+/**
+ * Compilation-only stub for OpenCVEngineInterface.
+ * Methods return safe defaults so the library compiles. This is NOT a real engine.
+ */
+public abstract class OpenCVEngineInterface {
+    public static OpenCVEngineInterface asInterface(IBinder b) {
+        return null;
+    }
+
+    // Example methods referenced by OpenCV Java sources.
+    // Return safe defaults so callers compile.
+    public int getEngineVersion() {
+        return 0;
+    }
+
+    public String getLibPathByVersion(String version) {
+        return null;
+    }
+
+    public boolean installVersion(String version) {
+        return false;
+    }
+
+    public String getLibraryList(String version) {
+        return null;
+    }
+
+    // Stub for possible inner Stub class used by code (keeps previous API shape).
+    public static class Stub {
+        public static OpenCVEngineInterface asInterface(IBinder b) {
+            return OpenCVEngineInterface.asInterface(b);
+        }
+    }
+}
