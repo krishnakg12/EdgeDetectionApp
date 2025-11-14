@@ -218,8 +218,8 @@ This project was created as a technical assessment for Software Engineering Inte
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@krishnakg12](https://github.com/krishnakg12)
+- Email: krishnakg1205@gmail.com
 
 ## 🙏 Acknowledgments
 
