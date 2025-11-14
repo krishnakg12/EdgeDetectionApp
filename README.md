@@ -144,7 +144,9 @@ npm start
 | **Rendering Time** | 8-12 ms |
 
 ## 📸 Screenshots
+This screenshot shows the real-time Canny edge detection output running on the Android device:
 
+![Edge Detection Screenshot](/screenshot_edge_detection.jpg)
 ### Android App
 - Camera preview with real-time edge detection
 - Toggle button for switching between modes
